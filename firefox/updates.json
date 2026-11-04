@@ -3,6 +3,11 @@
                    "smarttranslator@local":  {
                                                  "updates":  [
                                                                  {
+                                                                     "version":  "1.8.15",
+                                                                     "update_link":  "https://raw.githubusercontent.com/ivankoval921-bit/smarttranslator-releases/main/firefox/SmartTranslator-1.8.15.xpi",
+                                                                     "update_hash":  "sha256:76a37c2a022217500714bc7f38d48cf02fad6daa1dc5eeb097cc359af3a30b8d"
+                                                                 },
+                                                                 {
                                                                      "version":  "1.8.14",
                                                                      "update_link":  "https://raw.githubusercontent.com/ivankoval921-bit/smarttranslator-releases/main/firefox/SmartTranslator-1.8.14.xpi",
                                                                      "update_hash":  "sha256:bde03c3edb2cee408aa07a4729f55e1e714afbaa5769b8bfb9adaf4a91fbc8a5"
