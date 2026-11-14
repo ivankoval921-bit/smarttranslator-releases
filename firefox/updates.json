@@ -3,6 +3,11 @@
                    "smarttranslator@local":  {
                                                  "updates":  [
                                                                  {
+                                                                     "version":  "1.8.24",
+                                                                     "update_link":  "https://raw.githubusercontent.com/ivankoval921-bit/smarttranslator-releases/main/firefox/SmartTranslator-1.8.24.xpi",
+                                                                     "update_hash":  "sha256:3e4df326749563f215b6bae9a97e23b8063db52f4cb7f38e7845c11ab063eddb"
+                                                                 },
+                                                                 {
                                                                      "version":  "1.8.23",
                                                                      "update_link":  "https://raw.githubusercontent.com/ivankoval921-bit/smarttranslator-releases/main/firefox/SmartTranslator-1.8.23.xpi",
                                                                      "update_hash":  "sha256:9bc43f16c323ef2b53433eef3fcc729cc073804ded4ba4dbcfa6d5b1919071b0"
@@ -46,11 +51,6 @@
                                                                      "version":  "1.8.14",
                                                                      "update_link":  "https://raw.githubusercontent.com/ivankoval921-bit/smarttranslator-releases/main/firefox/SmartTranslator-1.8.14.xpi",
                                                                      "update_hash":  "sha256:bde03c3edb2cee408aa07a4729f55e1e714afbaa5769b8bfb9adaf4a91fbc8a5"
-                                                                 },
-                                                                 {
-                                                                     "version":  "1.8.13",
-                                                                     "update_link":  "https://raw.githubusercontent.com/ivankoval921-bit/smarttranslator-releases/main/firefox/SmartTranslator-1.8.13.xpi",
-                                                                     "update_hash":  "sha256:ebf7f66a03e47f4ab4b7600327f08b104c66b94383ef51fc32e9d267e2efb3fe"
                                                                  }
                                                              ]
                                              }
